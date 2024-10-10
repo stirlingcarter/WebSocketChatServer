@@ -1,0 +1,9 @@
+tubtitles/lang/*
+tub-env/*
+.bash*
+.cache/*
+.config/*
+.profile
+.sudo*
+.vscode*
+.wget*
